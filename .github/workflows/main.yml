@@ -61,4 +61,4 @@ jobs:
         with:
           app-name: 'appservicedemo4593'
           slot-name: 'Production'
-          package: dist
+          package: .
